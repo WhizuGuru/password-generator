@@ -1,42 +1,46 @@
-# Password Generator
+# Générateur de mots de passe
 
-A modern and secure password generator built with React and TypeScript. Generate strong passwords with customizable options for length, uppercase letters, numbers, and special characters.
+Un générateur de mots de passe moderne et sécurisé créé avec React et TypeScript. Générez des mots de passe robustes avec des options personnalisables pour la longueur, les lettres majuscules, les chiffres et les caractères spéciaux.
 
-## Features
+## Fonctionnalités
 
-- 🔐 Generate secure passwords
-- ⚙️ Customize password requirements
-- 💾 Save and load configurations
-- 📋 One-click copy to clipboard
-- 🎨 Modern, responsive UI
+- 🔐 Génération de mots de passe sécurisés
+- ⚙️ Personnalisation des critères de mot de passe
+- 💾 Sauvegarde et chargement des configurations
+- 📋 Copie en un clic dans le presse-papiers
+- 🎨 Interface moderne et responsive
 
-## Getting Started
+## Pour commencer
 
-### Prerequisites
+### Prérequis
 
-- Node.js (version 16 or higher)
-- npm or yarn
+- Node.js (version 16 ou plus récente)
+- npm ou yarn
 
 ### Installation
 
-1. Clone the repository
+1. Clonez le dépôt :
 ```bash
 git clone https://github.com/WhizuGuru/password-generator.git
 cd password-generator
 ```
 
-2. Install dependencies
+2. Installez les dépendances :
 ```bash
 npm install
-# or
+# ou
 yarn install
 ```
 
-3. Start the development server
+3. Lancez le serveur de développement :
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
 ```
 
-4. Open your browser and visit `http://localhost:5173`
+4. Ouvrez votre navigateur et visitez `http://localhost:5173`.
+
+Voici deux images décrivant ce Password-Generator -> 
+![Génération](image.png)
+![Paramètres](image-1.png)
