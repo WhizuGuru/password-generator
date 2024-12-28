@@ -28,7 +28,7 @@ cd password-generator
 2. Installez les dépendances :
 ```bash
 npm install
-# ou
+# ou sinon
 yarn install
 ```
 
